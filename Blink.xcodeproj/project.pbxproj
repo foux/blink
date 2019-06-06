@@ -1468,7 +1468,7 @@
 				TargetAttributes = {
 					EA0BA18A1C0CC57B00719C1A = {
 						CreatedOnToolsVersion = 7.1.1;
-						DevelopmentTeam = HV2S48975V;
+						DevelopmentTeam = D3GJU7L7XH;
 						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -1979,7 +1979,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = HV2S48975V;
+				DEVELOPMENT_TEAM = D3GJU7L7XH;
 				ENABLE_BITCODE = NO;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -2000,7 +2000,7 @@
 					"$(PROJECT_DIR)/Frameworks",
 				);
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = Com.CarlosCabanero.BlinkShell;
+				PRODUCT_BUNDLE_IDENTIFIER = "fr.id-apps.BlinkShell";
 				PRODUCT_NAME = Blink;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				RUN_CLANG_STATIC_ANALYZER = YES;
@@ -2018,7 +2018,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = HV2S48975V;
+				DEVELOPMENT_TEAM = D3GJU7L7XH;
 				ENABLE_BITCODE = NO;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -2036,7 +2036,7 @@
 					"$(PROJECT_DIR)/Frameworks",
 				);
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_BUNDLE_IDENTIFIER = Com.CarlosCabanero.BlinkShell;
+				PRODUCT_BUNDLE_IDENTIFIER = "fr.id-apps.BlinkShell";
 				PRODUCT_NAME = Blink;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				STRIP_STYLE = "non-global";
